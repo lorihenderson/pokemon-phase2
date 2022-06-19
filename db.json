@@ -1,0 +1,24 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "pikachu",
+      "image": "https://i.etsystatic.com/6725718/r/il/66aae1/1075565901/il_794xN.1075565901_d532.jpg",
+      "type": "electric"
+    },
+
+    {
+      "id": 2,
+      "name": "ditto",
+      "image": "https://cdn.holdtoreset.com/wp-content/uploads/2016/11/Ditto.png",
+      "type": "normal"
+    },
+
+    {
+      "id": 3,
+      "name": "jigglypuff",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+      "type": "normal"
+    }
+  ]
+}
